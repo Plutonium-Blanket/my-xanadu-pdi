@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-05-01 09:17:23">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<application_name>GitHubProjectSurvey</application_name>
+<application_scope>x_874844_githubpro</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>JA - Custom System Properties Page</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>452abf5883112210a32e58a6feaad397</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>04d090bc83d56210a32e58a6feaad3d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_41cb33d883112210a32e58a6feaad340</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>This is the employee id of the user who is in charge of approving a specific form or forms.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_874844_githubpro.ja.custom_example.approval_user_id</name><read_roles/><suffix>ja.custom_example.approval_user_id</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:06:56</sys_created_on><sys_id>41cb33d883112210a32e58a6feaad340</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.approval_user_id</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_41cb33d883112210a32e58a6feaad340</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:06:56</sys_updated_on><type>string</type><value>1234567</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=41cb33d883112210a32e58a6feaad340"/></record_update>]]></payload>
+<payload_hash>1225362862</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>00d090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686ceb7700000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.approval_user_id</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>05cb33d8ce1122102470251a7a4f2e42</update_guid>
+<update_guid_history>05cb33d8ce1122102470251a7a4f2e42:1225362862</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_category_m2m_0f7cf71c83112210a32e58a6feaad3d9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="GitHub Pro Properties Sample">e10cf31c83112210a32e58a6feaad38f</category><order>100</order><property display_value="x_874844_githubpro.ja.custom_example.approval_user_id" name="x_874844_githubpro.ja.custom_example.approval_user_id">41cb33d883112210a32e58a6feaad340</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:10:05</sys_created_on><sys_id>0f7cf71c83112210a32e58a6feaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.approval_user_id.GitHub Pro Properties Sample</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_category_m2m_0f7cf71c83112210a32e58a6feaad3d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:10:05</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+<payload_hash>-288682886</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>0cd090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686d198810000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.approval_user_id.GitHub Pro Properties Sample</target_name>
+<type>Category Property</type>
+<update_domain>global</update_domain>
+<update_guid>8f7cf71cca112210291fc4d7c28deadb</update_guid>
+<update_guid_history>8f7cf71cca112210291fc4d7c28deadb:-288682886</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_category_m2m_037cf71c83112210a32e58a6feaad3dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="GitHub Pro Properties Sample">e10cf31c83112210a32e58a6feaad38f</category><order>200</order><property display_value="x_874844_githubpro.ja.custom_example.email_properties" name="x_874844_githubpro.ja.custom_example.email_properties">3eda33d883112210a32e58a6feaad33a</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:10:05</sys_created_on><sys_id>037cf71c83112210a32e58a6feaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.email_properties.GitHub Pro Properties Sample</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_category_m2m_037cf71c83112210a32e58a6feaad3dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:10:05</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+<payload_hash>-359762143</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>48d090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686d198a30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.email_properties.GitHub Pro Properties Sample</target_name>
+<type>Category Property</type>
+<update_domain>global</update_domain>
+<update_guid>077cf71c84112210d16be78913d3dede</update_guid>
+<update_guid_history>077cf71c84112210d16be78913d3dede:-359762143</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_3eda33d883112210a32e58a6feaad33a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>True if you want system emails to be sent to the client upon ticket closure.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_874844_githubpro.ja.custom_example.email_properties</name><read_roles/><suffix>ja.custom_example.email_properties</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:03:59</sys_created_on><sys_id>3eda33d883112210a32e58a6feaad33a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.email_properties</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_3eda33d883112210a32e58a6feaad33a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:12:32</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=3eda33d883112210a32e58a6feaad33a"/></record_update>]]></payload>
+<payload_hash>2142160420</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>4cd090bc83d56210a32e58a6feaad3d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686d3d7c50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.email_properties</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>4b0dbb5c28112210efd848f562e03b75</update_guid>
+<update_guid_history>4b0dbb5c28112210efd848f562e03b75:2142160420,da0d339c431122103464b05b6c5543ff:-594782357,f91b77d8a41122108d3ed7f9bfd5f838:2142160420</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_category_e10cf31c83112210a32e58a6feaad38f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;GitHub Pro Properties Sample&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-04-30 13:08:47&lt;/sys_created_on&gt;&lt;sys_id&gt;e10cf31c83112210a32e58a6feaad38f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;GitHub Pro Properties Sample&lt;/sys_name&gt;&lt;sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro"&gt;c9760f51832f5210a32e58a6feaad3d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="GitHubProjectSurvey"&gt;c9760f51832f5210a32e58a6feaad3d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_e10cf31c83112210a32e58a6feaad38f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-04-30 13:08:47&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;This is the title section of the GitHub Pro Properties Sample Page&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e10cf31c83112210a32e58a6feaad38f"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1264393558</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>84d090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686d067f50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>GitHub Pro Properties Sample</target_name>
+<type>System Property Category</type>
+<update_domain>global</update_domain>
+<update_guid>403c3b98e811221085fa98a9d07559c5</update_guid>
+<update_guid_history>403c3b98e811221085fa98a9d07559c5:1264393558</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_737af79883112210a32e58a6feaad3c0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="My Custom Properties Menu">7c4a739883112210a32e58a6feaad3e1</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>My Custom Properties Page</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query>now/nav/ui/classic/params/target/system_properties_ui.do%3Fsysparm_title%3DProperties%26sysparm_category%3DGitHub%2520Pro%2520Properties%2520Sample%26sysparm_domain_restore%3Dfalse%26sysparm_stack%3Dno</query><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:02:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>737af79883112210a32e58a6feaad3c0</sys_id><sys_mod_count>7</sys_mod_count><sys_name>My Custom Properties Page</sys_name><sys_overrides/><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_app_module_737af79883112210a32e58a6feaad3c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:29:28</sys_updated_on><timeline_page/><title>My Custom Properties Page</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1698870342</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>88d090bc83d56210a32e58a6feaad3d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686e3581c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>My Custom Properties Page</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>cfe084e047512210f242970588f33d6d</update_guid>
+<update_guid_history>cfe084e047512210f242970588f33d6d:1698870342,38c0c0e0a9512210d10a00f7cd9d80ee:-1878527281,2b6fb750c8512210281350479c60ce25:1712892126,2bce77dcb51122109d4f4cfb2ac6a116:1521820290,38beb710ca51221090fc48117781e25d:-427969142,aa6effdcfa11221096b6462b0874b7f2:-418514399,f36d7b9c651122100475477eb235bd44:621320452,eeaab79883112210ebf583ffafeb0de0:-1912125665</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_625bbf5883112210a32e58a6feaad353</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>1,2,3,4,5,6,7,8,9</choices><description>Pick how many days to send a reminder to follow up tickets.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_874844_githubpro.ja.custom_example.reminder</name><read_roles/><suffix>ja.custom_example.reminder</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:05:08</sys_created_on><sys_id>625bbf5883112210a32e58a6feaad353</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.reminder</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_625bbf5883112210a32e58a6feaad353</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:05:08</sys_updated_on><type>integer</type><value>3</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=625bbf5883112210a32e58a6feaad353"/></record_update>]]></payload>
+<payload_hash>589485153</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>c0d090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686cd11660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.reminder</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>365bbf5893112210100b4484347b5455</update_guid>
+<update_guid_history>365bbf5893112210100b4484347b5455:589485153</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_7c4a739883112210a32e58a6feaad3e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:01:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7c4a739883112210a32e58a6feaad3e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Custom Properties Menu</sys_name><sys_overrides/><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_app_application_7c4a739883112210a32e58a6feaad3e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:01:15</sys_updated_on><title>My Custom Properties Menu</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1229227797</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>c4d090bc83d56210a32e58a6feaad3d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686c985590000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>My Custom Properties Menu</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>027ab79879112210f67ebc0df8eceb2a</update_guid>
+<update_guid_history>027ab79879112210f67ebc0df8eceb2a:-1229227797</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_category_m2m_477cf71c83112210a32e58a6feaad3df</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="GitHub Pro Properties Sample">e10cf31c83112210a32e58a6feaad38f</category><order>300</order><property display_value="x_874844_githubpro.ja.custom_example.reminder" name="x_874844_githubpro.ja.custom_example.reminder">625bbf5883112210a32e58a6feaad353</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-30 13:10:05</sys_created_on><sys_id>477cf71c83112210a32e58a6feaad3df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_874844_githubpro.ja.custom_example.reminder.GitHub Pro Properties Sample</sys_name><sys_package display_value="GitHubProjectSurvey" source="x_874844_githubpro">c9760f51832f5210a32e58a6feaad3d7</sys_package><sys_policy/><sys_scope display_value="GitHubProjectSurvey">c9760f51832f5210a32e58a6feaad3d7</sys_scope><sys_update_name>sys_properties_category_m2m_477cf71c83112210a32e58a6feaad3df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 13:10:05</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+<payload_hash>921548665</payload_hash>
+<remote_update_set display_value="JA - Custom System Properties Page">04d090bc83d56210a32e58a6feaad3d9</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:17:22</sys_created_on>
+<sys_id>ccd090bc83d56210a32e58a6feaad3da</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686d198c60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:17:22</sys_updated_on>
+<table/>
+<target_name>x_874844_githubpro.ja.custom_example.reminder.GitHub Pro Properties Sample</target_name>
+<type>Category Property</type>
+<update_domain>global</update_domain>
+<update_guid>c37c375c6b112210fe185ea515d2b69b</update_guid>
+<update_guid_history>c37c375c6b112210fe185ea515d2b69b:921548665</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
+ 
