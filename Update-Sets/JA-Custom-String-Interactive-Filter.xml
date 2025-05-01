@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-05-01 09:20:17">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>This custom string interactive filter only works if the platform has content management module. Content dynamic block is required to create this. As the platform moves towards platform analytics and away from reports, this interactive filter needs to be re-investigated via ui builder.</description>
+<inserted/>
+<name>JA - Custom String Interactive Filter</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>5ee0938e83c16210a32e58a6feaad3bc</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7e71947483196210a32e58a6feaad32c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_37949b8283056210a32e58a6feaad3ca</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="DELETE"><active>true</active><certified>false</certified><description/><experience/><grid>48</grid><name>Demo Dashboard</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>37949b8283056210a32e58a6feaad3ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dashboard</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_37949b8283056210a32e58a6feaad3ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:35</sys_updated_on><sys_ux_app_config/><sys_ux_app_route/><sys_ux_macroponent/><sys_ux_screen/><sys_ux_screen_type/></par_dashboard></record_update>]]></payload>
+<payload_hash>-1581526165</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3271947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623cef010000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard</target_name>
+<type>PAR Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>e857938a42056210a08364dbe62ece90</update_guid>
+<update_guid_history>e857938a42056210a08364dbe62ece90:-1581526165,c0a49b82c70562104799d06eb937f9cc:-1044849313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_uib_screen_test_values_0757578a83056210a32e58a6feaad31e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{ }</macroponent_config><screen display_value="Demo Dashboard default">cf57178a83056210a32e58a6feaad3da</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:33</sys_created_on><sys_id>0757578a83056210a32e58a6feaad31e</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_uib_screen_test_values_0757578a83056210a32e58a6feaad31e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:33</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+<payload_hash>1919774982</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3271947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d19340000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>UIB Screen Test Values</type>
+<update_domain>global</update_domain>
+<update_guid>d757578a410562100993c81f80a1c445</update_guid>
+<update_guid_history>d757578a410562100993c81f80a1c445:1919774982,cb57578a1d05621029844e82b59bb21f:-830319951</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_80a493c283056210a32e58a6feaad328</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="DELETE"><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>80a493c283056210a32e58a6feaad328</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_visibility_80a493c283056210a32e58a6feaad328</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:36</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>694097080</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3671947483196210a32e58a6feaad32f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623cee230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>a857938a340562109d3a91743024447a</update_guid>
+<update_guid_history>a857938a340562109d3a91743024447a:694097080,c4a493c2e1056210a694161752074236:-1854786035</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_f657178a83056210a32e58a6feaad3b4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="Demo Dashboard">b257938a83056210a32e58a6feaad393</dashboard><name>New Tab 10</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f657178a83056210a32e58a6feaad3b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 10</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_tab_f657178a83056210a32e58a6feaad3b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:32</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>1030735251</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3a71947483196210a32e58a6feaad32e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d143e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>New Tab 10</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>3a57178a0b056210b0cfaf38361323b5</update_guid>
+<update_guid_history>3a57178a0b056210b0cfaf38361323b5:1030735251</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_ba57178a83056210a32e58a6feaad3b6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Demo Dashboard">b257938a83056210a32e58a6feaad393</dashboard><dashboard_tab display_value="New Tab 10">f657178a83056210a32e58a6feaad3b4</dashboard_tab><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba57178a83056210a32e58a6feaad3b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_ba57178a83056210a32e58a6feaad3b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:32</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-1826723492</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3e71947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d14650000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>3e57178a440562108a914bf10428a8b7</update_guid>
+<update_guid_history>3e57178a440562108a914bf10428a8b7:-1826723492</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_screen_cf57178a83056210a32e58a6feaad3da</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Demo Dashboard">4357178a83056210a32e58a6feaad3d6</macroponent><macroponent_config>{}</macroponent_config><name>Demo Dashboard default</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Demo Dashboard">8f57178a83056210a32e58a6feaad3d2</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cf57178a83056210a32e58a6feaad3da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dashboard default</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_screen_cf57178a83056210a32e58a6feaad3da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:32</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=cf57178a83056210a32e58a6feaad3da"/></record_update>]]></payload>
+<payload_hash>-1482476274</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>3e71947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d173d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard default</target_name>
+<type>UX Screen</type>
+<update_domain>global</update_domain>
+<update_guid>0357578a7a056210579fc341e2cb241d</update_guid>
+<update_guid_history>0357578a7a056210579fc341e2cb241d:-1482476274</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_3657178a83056210a32e58a6feaad3b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="Demo Dashboard">b257938a83056210a32e58a6feaad393</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3657178a83056210a32e58a6feaad3b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_visibility_3657178a83056210a32e58a6feaad3b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:31</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>611339390</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7271947483196210a32e58a6feaad32f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d137b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>b657178a9105621047fa6083e5019bb2</update_guid>
+<update_guid_history>b657178a9105621047fa6083e5019bb2:611339390</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_c4a493c283056210a32e58a6feaad322</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="DELETE"><active>true</active><background_color/><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><name>New Tab 10</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c4a493c283056210a32e58a6feaad322</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 10</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_tab_c4a493c283056210a32e58a6feaad322</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:35</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>-243195879</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7671947483196210a32e58a6feaad32e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623cedda0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>New Tab 10</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>2457938ad2056210a86c55a74d4e8275</update_guid>
+<update_guid_history>2457938ad2056210a86c55a74d4e8275:-243195879,84a493c25b056210125d8c4231378324:-1061858332</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_88a493c283056210a32e58a6feaad325</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="DELETE"><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><dashboard_tab display_value="New Tab 10">c4a493c283056210a32e58a6feaad322</dashboard_tab><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>88a493c283056210a32e58a6feaad325</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_88a493c283056210a32e58a6feaad325</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:36</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>2075070396</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7a71947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623ced370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>6857938ada05621004d1592e8e926d38</update_guid>
+<update_guid_history>6857938ada05621004d1592e8e926d38:2075070396,8ca493c25e056210dfd61ce556077426:-1114120697</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_macroponent_4357178a83056210a32e58a6feaad3d6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><bundles/><category>page</category><component_dependencies/><composition>[]</composition><da_relay_models/><data>[]</data><description/><disable_auto_reflow>false</disable_auto_reflow><dispatched_events>9965b79853030110aab9ddeeff7b1240</dispatched_events><ext_controller_dep/><extends display_value="Technical dashboard template">2395ddb853772110784cddeeff7b1251</extends><extension_point/><form_factors>{}</form_factors><handled_events/><interactions/><interfaces/><internal_event_mappings>{}</internal_event_mappings><layout/><macroponent_dependencies/><name>Demo Dashboard default</name><output_prop_mapping/><props>[]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_persistence_config>[]</state_persistence_config><state_properties>[]</state_properties><style_config>{}</style_config><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:32</sys_created_on><sys_id>4357178a83056210a32e58a6feaad3d6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Demo Dashboard default</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_macroponent_4357178a83056210a32e58a6feaad3d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:33</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=4357178a83056210a32e58a6feaad3d6"/></record_update>]]></payload>
+<payload_hash>-32824917</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7a71947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d19e80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard default</target_name>
+<type>UX Macroponent Definition</type>
+<update_domain>global</update_domain>
+<update_guid>5757578a980562106898351d35eb4969</update_guid>
+<update_guid_history>5757578a980562106898351d35eb4969:-32824917,d757578afb0562106b7928f71a4bb64d:1253122655,cb57178aca05621095ab0b927f8bdcd9:-853302821</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_63f1a53377451110cd1b756f1b5a9991</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Captures the last execution timestamp of the scheduled job 'Surface New Unconnected Content of Categories'</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>taxonomy.category.new_content_job_last_run</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-08 07:43:25</sys_created_on><sys_id>63f1a53377451110cd1b756f1b5a9991</sys_id><sys_mod_count>23</sys_mod_count><sys_name>taxonomy.category.new_content_job_last_run</sys_name><sys_package display_value="Content Taxonomy" source="com.snc.taxonomy">f1c8db2cdc1612104f34465061b06a91</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_63f1a53377451110cd1b756f1b5a9991</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 12:49:08</sys_updated_on><type>date_format</type><value>2025-04-30</value><write_roles>maint</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=63f1a53377451110cd1b756f1b5a9991"/></record_update>]]></payload>
+<payload_hash>500956335</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>7e71947483196210a32e58a6feaad32f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686be6fa90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>taxonomy.category.new_content_job_last_run</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>ecb7f75081112210cae3408c6b2363e2</update_guid>
+<update_guid_history>ecb7f75081112210cae3408c6b2363e2:500956335,1edd6c06340122105aab98550f65063a:521126956,b07eeb17a73022104782ad39c90eb010:541297577,a7de1a34ab3022102f572ebf9e2afd85:561468198,e97193267f202210c2220c3e31dd6650:931034957,cb0b0377771426108a9d49db7e253c1b:507594155,098329078e102210f0782600f88c9f24:-1549145405,aec44b13708c2a1069310f217c7fbef6:1435158243,736e4a25380022103c61d8959f32c422:-1226510295,fd8e7a36343f5a10dc9ba28c262fd9f3:494061354,7d6b362c60bfd2103a9822e5a885f555:957843398,2156f6e299abd6102fae523592eb4981:1865236865,4dde4541bb2312106f0f3a15558ce576:-352820250,c62e24e73b1312108d6d54fcd1cceb75:460357932,792e24e71f1312109ac23d010c68fe1b:-437767834</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_c4a49b8283056210a32e58a6feaad3cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="DELETE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c4a49b8283056210a32e58a6feaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>37949b8283056210a32e58a6feaad3ca</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_c4a49b8283056210a32e58a6feaad3cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:35</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>2123207268</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>b271947483196210a32e58a6feaad32e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623ced8b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>37949b8283056210a32e58a6feaad3ca</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>a057938a240562106fc09588fca5253e</update_guid>
+<update_guid_history>a057938a240562106fc09588fca5253e:2123207268,04a49b8257056210dfc664b7cae8ebd0:-864076639</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_44a493c283056210a32e58a6feaad31f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="DELETE"><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44a493c283056210a32e58a6feaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_44a493c283056210a32e58a6feaad31f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:35</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>2070742002</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>b671947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623ceb500000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>dc57938a3b0562102fa5d1a6c99db233</update_guid>
+<update_guid_history>dc57938a3b0562102fa5d1a6c99db233:2070742002,40a493c2f605621046ab336b7ac8a621:-1779434499</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_app_route_cb57578a83056210a32e58a6feaad327</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><extension_point/><fields/><icon/><name>Demo Dashboard</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>demo_dashboard-1068543948</route_type><screen_type display_value="Demo Dashboard">8f57178a83056210a32e58a6feaad3d2</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:33</sys_created_on><sys_id>cb57578a83056210a32e58a6feaad327</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dashboard</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_app_route_cb57578a83056210a32e58a6feaad327</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:33</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=cb57578a83056210a32e58a6feaad327"/></record_update>]]></payload>
+<payload_hash>-474934617</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>b671947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d19080000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard</target_name>
+<type>UX App Route</type>
+<update_domain>global</update_domain>
+<update_guid>cb57578a0305621045373c8d9f6c1442</update_guid>
+<update_guid_history>cb57578a0305621045373c8d9f6c1442:-474934617</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Workspace">c8ab76825371201032b7ddeeff7b1280</application>
+<category>customer</category>
+<comments/>
+<name>sn_cmdb_ws_ms_class_metadata_ce9f62555bd50110693e7da52d81c7bd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmdb_ws_ms_class_metadata"><sn_cmdb_ws_ms_class_metadata action="INSERT_OR_UPDATE"><ci_count_percent>100</ci_count_percent><sys_class_name>sn_cmdb_ws_ms_class_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 09:01:20</sys_created_on><sys_domain>global</sys_domain><sys_id>ce9f62555bd50110693e7da52d81c7bd</sys_id><sys_mod_count>126</sys_mod_count><sys_name/><sys_package display_value="CMDB Workspace" source="sn_cmdb_ws">c8ab76825371201032b7ddeeff7b1280</sys_package><sys_policy/><sys_scope display_value="CMDB Workspace">c8ab76825371201032b7ddeeff7b1280</sys_scope><sys_update_name>sn_cmdb_ws_ms_class_metadata_ce9f62555bd50110693e7da52d81c7bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 12:49:00</sys_updated_on><table>cmdb_ci_hardware</table></sn_cmdb_ws_ms_class_metadata></record_update>]]></payload>
+<payload_hash>-1966656346</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>ba71947483196210a32e58a6feaad32f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686be4c400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table>cmdb_ci_hardware</table>
+<target_name/>
+<type>CMDB Workspace Multisource Class Metadat</type>
+<update_domain>global</update_domain>
+<update_guid>92a7735020112210726ff825de95eba5</update_guid>
+<update_guid_history>92a7735020112210726ff825de95eba5:-1966656346,5ea773503d1122104e643aa6fc08a96f:-2121401785,92f752b6828d2610573a4dc4ca99ce3d:-1966656346,daf712b6f58d261005557b1938895941:-2121401785,9d6e89a6f7c1e21086a677da9e13ef1b:-1966656346,d16e89a6fdc1e2107bf243ebdc342019:-2121401785,3ac484961e096210045c4ed6cfaff1fd:-1966656346,b2c484960a096210ec98b3307016d6fb:-2121401785,cf4d2442330122108498ef8f0b53b11c:-1966656346,7a4d2442de01221077f231ae2a953819:-2121401785,4bb5f0731630221077d8776149ff3450:-1966656346,03b5f073f130221035e2bad86d45414d:-2121401785,450e2b1313302210f20d47fcfc0a75d8:-1966656346,380e2b13f430221058003380c90eca97:-2121401785,4c28898e413022100a262e60b05489b7:-1966656346,fb18898e2c302210eefc983e95dcc006:-2121401785,d3e0ef3126302210f5b8b6dccd1b53a9:-1966656346,8be0ef3187302210b0a357720d53a3a5:-2121401785,acd30921bd3022107975ee4b700dee31:-1966656346,94d30921eb302210e595ea1d1432f92e:-2121401785,67e7c511e0302210e7bdf95b2582f3c2:-1966656346,9be7c51191302210e41fa53d9ee2adbe:-2121401785,4a6e1a30a730221016923873ca421fe3:-1966656346,bd6e1a3010302210018cb828aec4c4df:-2121401785,2c47b03ff92866108145102334c76694:-1966656346,2047b03fbd286610c3567492ed1c5792:-2121401785,4bade31f94ace210ff66ba258a5940b2:-1966656346,0bada31f2face2100a528b53e15f4eb7:-2121401785,3414aa4f4924a2106fb1f741d25b9c4c:-1966656346,3814aa4ff024a2106f058b0c1d489d49:-2121401785,cb7ad9728ee82210dfc05d83b65621e4:-1966656346,cf7ad97225e82210ea76be20445f6ce1:-2121401785,68719fe233202210a127245412fd4efd:-1966656346,e0719fe2f52022104ef6f440bf890efb:-2121401785,fcf0ae30cd60a2100169871b6e107ee0:-1966656346,e0f0ae30d760a21026cfd3d37b1ab3de:-2121401785,4f57d1a4cce42210bfb4e83e7faddc67:-1966656346,4357d1a419e42210efbdb9e8436ae465:-2121401785,fc9dbbd0dd202210bc65c40b2efbfefd:-1966656346,789dbbd055202210788fd1d76f6bacfb:-2121401785,2724873fecd026102b0996d5765e005a:-1966656346,2b24873f20d02610576aa09b85faaf57:-2121401785,219a7963fb98a21030f59fe96f12f9d0:-1966656346,259a79638198a21070d4c9b5391c5ccd:-2121401785,44017c97101062108c5334ec395aa4af:-1966656346,48017c97c110621004f8f5149e289dac:-2121401785,3f13a9033d1022107d5ea11b06e00fcf:-1966656346,7313a903f61022101fed39200902facc:-2121401785,3fdd6c89099c621074dce3449988092c:-1966656346,33dd6c89139c621037676292684d1d2a:-2121401785,06442fec0c1422103b8e14f72fec88a8:-1966656346,0a442fece51422103fd26a5ffebe1da5:-2121401785,d8b8aae074102210ee91769363ec9c3c:-1966656346,54b8aae06a102210b862e9a63f0f103a:-2121401785,aa11918898102e1007c0012cfa4d00dd:-1966656346,ae119188e7102e10867cb1f7935092da:-2121401785,6087c07321c4aa10f56099470c5f4976:-1966656346,6487c073bac4aa101427495817d2a673:-2121401785,0bedfed7b84c2a1050a25dea0ea40dd0:-1966656346,3eedfed7eb4c2a1057c77ab3e0491ecd:-2121401785,595479cf1cc0e610abcd144cad7a19f3:-1966656346,4d5479cf32c0e6107a02d5347c3219f0:-2121401785,e7ba64f6bf886610b78ecc9a1c430058:-1966656346,dbba64f617886610c28831b62f4dca55:-2121401785,b121a7deef00261063a54e09d435ed49:-1966656346,2d21a7de9a002610ced291d5ab26c146:-2121401785,378792c64ec4a2106f6a1e6ee37f2b12:-1966656346,f78792c60ec4a210f203c2605bcf020f:-2121401785,06fd8db9698c2210b196d919118f79a4:-1966656346,8afd8db9478c22106bc763b2ba1caea1:-2121401785,ff4e8ea14f002210f89fada9aa096960:-1966656346,7b4e8ea1e1002210e519aa816b38b35e:-2121401785,010e9f88bd402250f9a6bdaa482b8201:-1966656346,050e5f88da40225093f742c5eaaed2fe:-2121401785,2b645a37ef7b9e106e9f0b6ec6ea6fcf:-1966656346,eb645a37b37b9e106542f4082c9070cc:-2121401785,3dda09ef383f1e10acfed3e7740091db:-1966656346,35da09ef7b3f1e10bc3e93591b30fbd9:-2121401785,7f310c171737da1014e60b403324a227:-1966656346,b331c8173037da10fa1ad324a7c640b5:-2121401785,52a7b63ef5fb5a10beb6f80cb7d09377:-1966656346,1ea7b63e1efb5a106fdd4af4898c6910:-2121401785,1c1e2922c1f31a104e31726dc593240d:-1966656346,d41e29228ff31a10e6e5ce402003610b:-2121401785,be7420da7dbb9610abf2a0a20ba523a6:-1966656346,b27420da8ebb961029b1430b707a18a4:-2121401785,c5ea1b7593b356105b8bb22522ee815c:-1966656346,0dea1b75f4b35610a44e8004cbd52559:-2121401785,8f41522169bbd210e5cc55b076034bc1:-1966656346,83415221b1bbd210a974d7f61156cabf:-2121401785,99b781d9f573921024444027d40600bb:-1966656346,9db781d98373921015dfe992b8644eb8:-2121401785,731ebbb4567b12108ec9b06e1f28c080:-1966656346,bb1ebbb4407b1210380051a6518d2219:-2121401785,4a8472241abfd2109205985ed480067b:-1966656346,4e84722489bfd2104d4b403d9dd70d78:-2121401785,24fae99cf677921092209fd3d0883af5:-1966656346,a0fae99c77779210636bc252a7675576:-2121401785,be512c48657f12102778329bdf275a06:-1966656346,36512c48c67f1210d1f7164b0e251504:-2121401785,32ace5334a2312105f430dd592467f89:-1966656346,36ace533702312104d1557b33f55592e:-2121401785,4f2e4e9bb823da107045df9a05edd21b:-1966656346,072e4e9b6623da1038b2d57ff8caec19:-2121401785,a594c1c3392b5a10b3f233d1405d9f3a:-1966656346,9d94c1c3942b5a10e3a460ef7e4f3137:-2121401785,effaf76642efd610e0f0e5a264145e02:-1966656346,ebfaf766abefd610478fccf8bf1cdf00:-2121401785,4e613eda69a79610039329b38d6c9e5a:-1966656346,82613edaafa79610a0f3c9171ed40f58:-2121401785,9cd7a9861faf1610deea5d97618b2e1a:-1966656346,14d7a98625af1610e7d5314dcfa26d18:-2121401785,663e10b17fa7d2107ca14d04c760c7d8:-1966656346,223e10b1c3a7d210c43a6614453356d6:-2121401785,f8a45f553e6f5210b72e0fb8baff3718:-1966656346,70a45f55766f521081b6b744e395df16:-2121401785,ba19ce595fe7521083ddf86e8aa15db0:-1966656346,7a19ce5993e7521099a7697ce31ac24a:-2121401785,c7cecd016b23121096644336278238b2:-1966656346,c7ce8d017a23121066eb61d6dd28209d:-2121401785,53b22d00f8ab9210f21004f04d615e36:-1966656346,97b22d00e9ab92107e89b7fa1c41d333:-2121401785,712958b30893521000eab8d3e1eaa130:-1966656346,b52958b32093521017d6e67d8e9ec22d:-2121401785,fb3de823b213121052320e930ca7feb5:-1966656346,bb3de823031312108911f6787527d043:-2121401785,773de823681312102d5a8575eb4bad42:-1966656346</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_3257178a83056210a32e58a6feaad3af</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2025-04-23 10:41:31</created_on><dashboard display_value="Demo Dashboard">b257938a83056210a32e58a6feaad393</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_updated_on>2025-04-23 10:41:31</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval/><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3257178a83056210a32e58a6feaad3af</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_user_metadata_3257178a83056210a32e58a6feaad3af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:31</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>2099748423</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>be71947483196210a32e58a6feaad32e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d13320000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>7257178ab205621092609ff2de4052b0</update_guid>
+<update_guid_history>7257178ab205621092609ff2de4052b0:2099748423</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_b257938a83056210a32e58a6feaad393</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard"><par_dashboard action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><experience display_value="Advanced Dashboards">8adc36706f01011089060168e25b3693</experience><grid>48</grid><name>Demo Dashboard</name><sys_class_name>par_dashboard</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b257938a83056210a32e58a6feaad393</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Demo Dashboard</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_b257938a83056210a32e58a6feaad393</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:33</sys_updated_on><sys_ux_app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</sys_ux_app_config><sys_ux_app_route display_value="Demo Dashboard">cb57578a83056210a32e58a6feaad327</sys_ux_app_route><sys_ux_macroponent display_value="Demo Dashboard">4357178a83056210a32e58a6feaad3d6</sys_ux_macroponent><sys_ux_screen display_value="Demo Dashboard default">cf57178a83056210a32e58a6feaad3da</sys_ux_screen><sys_ux_screen_type display_value="Demo Dashboard">8f57178a83056210a32e58a6feaad3d2</sys_ux_screen_type></par_dashboard></record_update>]]></payload>
+<payload_hash>-1934590078</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>f271947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d19780000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard</target_name>
+<type>PAR Dashboard</type>
+<update_domain>global</update_domain>
+<update_guid>9757578a1c0562109af54f9d0db84849</update_guid>
+<update_guid_history>9757578a1c0562109af54f9d0db84849:-1934590078,3657938a670562101d24f9dda9970794:-1044849313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_macro_e311d78e83c16210a32e58a6feaad3d6</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_macro"&gt;&lt;sys_ui_macro action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;category&gt;general&lt;/category&gt;&lt;description&gt;This macro is a reusable custom string filter typically used for searching a text field with CONTAINS&lt;/description&gt;&lt;media_type/&gt;&lt;name&gt;filter_string&lt;/name&gt;&lt;scoped_name/&gt;&lt;sys_class_name&gt;sys_ui_macro&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-04-23 10:15:49&lt;/sys_created_on&gt;&lt;sys_id&gt;e311d78e83c16210a32e58a6feaad3d6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;filter_string&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_macro_e311d78e83c16210a32e58a6feaad3d6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-04-23 10:15:49&lt;/sys_updated_on&gt;&lt;xml&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+    &lt;div id="${jvar_uuid}_display" style="display: none"&gt;
+        &lt;input id='${jvar_uuid}_text' class="form-control widget-content" value="" /&gt;
+    &lt;/div&gt;
+
+    &lt;script&gt;
+        customFilter$ {
+            jvar_uuid
+        }.displayInput();
+        // select input
+        customFilter$ {
+            jvar_uuid
+        }.elements.textField = $j('#${jvar_uuid}_text');
+        // handle the field changes
+        customFilter$ {
+            jvar_uuid
+        }.elements.textField.change(function() {
+            var filterObj = {
+                id: uuid$ {
+                    jvar_uuid
+                },
+                filters: []
+            };
+            if (customFilter$ {
+                    jvar_uuid
+                }.elements.textField.val().length &gt; 0) {
+                for (var t = 0; t $ {
+                        AMP
+                    }
+                    lt; customFilter$ {
+                        jvar_uuid
+                    }.config.mapping.length; t++) {
+                    customFilter$ {
+                        jvar_uuid
+                    }.log('Adding filter for table: ' + customFilter$ {
+                        jvar_uuid
+                    }.config.mapping[t].table);
+                    filterObj.filters.push({
+                        table: customFilter$ {
+                            jvar_uuid
+                        }.config.mapping[t].table,
+                        filter: customFilter$ {
+                            jvar_uuid
+                        }.config.mapping[t].filterPrepend + customFilter$ {
+                            jvar_uuid
+                        }.elements.textField.val() + customFilter$ {
+                            jvar_uuid
+                        }.config.mapping[t].filterAppend
+                    });
+                }
+                // console.log(filterObj);
+                // add the filter
+                customFilter$ {
+                    jvar_uuid
+                }.dashboardMessageHandler.publishMessage(filterObj.filters);
+                // set the default value for next reload
+                customFilter$ {
+                    jvar_uuid
+                }.persistPublishedFilter(filterObj.filters);
+            } else {
+                customFilter$ {
+                    jvar_uuid
+                }.removeFilter();
+                customFilter$ {
+                    jvar_uuid
+                }.removePersistedFilter();
+            }
+        });
+
+        customFilter$ {
+            jvar_uuid
+        }.setDefaultValues = function(persistedFilter) {
+            //customFilter${jvar_uuid}.log('Setting initial values', persistedFilter);
+            if (persistedFilter) {
+                customFilter$ {
+                    jvar_uuid
+                }.elements.textField.val(persistedFilter);
+                customFilter$ {
+                    jvar_uuid
+                }.elements.textField.change();
+                //customFilter${jvar_uuid}.log('String default set');
+            }
+        };
+    &lt;/script&gt;
+&lt;/j:jelly&gt;]]&gt;&lt;/xml&gt;&lt;/sys_ui_macro&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1893413588</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>f271947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19662258b7c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>filter_string</target_name>
+<type>Macro</type>
+<update_domain>global</update_domain>
+<update_guid>9271178e3ec16210f0b55351d578a268</update_guid>
+<update_guid_history>9271178e3ec16210f0b55351d578a268:1893413588</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pwd_process_4ff0c881bf220100710071a7bf0739fa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pwd_process"><pwd_process action="INSERT_OR_UPDATE"><active>false</active><allow_verification_choice>false</allow_verification_choice><apply_to_all_users>true</apply_to_all_users><auto_gen_password>true</auto_gen_password><change>false</change><cred_store display_value="Local ServiceNow Instance">6e51033fbf020100710071a7bf0739e0</cred_store><description>Service-desk process for the local ServiceNow as a stand-alone credential-store</description><display_captcha>false</display_captcha><display_password>true</display_password><email_password_reset_url>false</email_password_reset_url><enable_security_score_notification>false</enable_security_score_notification><enabled_on_chatbot>false</enabled_on_chatbot><enrollment_reminder>false</enrollment_reminder><expiration_run_period/><expiration_run_start/><expiration_run_time/><expiration_run_time_zone/><expiration_schedule_frequency/><expiration_warn_days/><identification_type/><label>Service-Desk Password Reset for Local ServiceNow</label><min_verifications>1</min_verifications><name>Service-Desk Password Reset for Local ServiceNow</name><password_needs_reset>true</password_needs_reset><post_processor/><process_owner/><public_access>false</public_access><public_url/><pwd_validity_days/><redirect_url/><reset>true</reset><run_dayofmonth/><run_dayofweek/><run_start/><run_time/><run_type/><security_score/><send_email>true</send_email><send_expiration_reminder>false</send_expiration_reminder><sender_alias/><sys_class_name>pwd_process</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2013-07-11 18:00:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4ff0c881bf220100710071a7bf0739fa</sys_id><sys_mod_count>22</sys_mod_count><sys_name>Service-Desk Password Reset for Local ServiceNow</sys_name><sys_package display_value="Password Reset" source="com.glideapp.password_reset">4c865f6cdcd212104f34465061b06a79</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pwd_process_4ff0c881bf220100710071a7bf0739fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-30 12:50:37</sys_updated_on><unlock_account>true</unlock_account><url_suffix/><user_experience_entry/><user_experience_failure/><user_experience_footer/><user_experience_header/><user_experience_success/></pwd_process><sys_translated_text action="delete_multiple" query="documentkey=4ff0c881bf220100710071a7bf0739fa"/></record_update>]]></payload>
+<payload_hash>559401970</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>f671947483196210a32e58a6feaad32f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19686bfc7a00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Service-Desk Password Reset for Local ServiceNow</target_name>
+<type>Password Reset Process</type>
+<update_domain>global</update_domain>
+<update_guid>0208bb140c112210d3586f40088b9e59</update_guid>
+<update_guid_history>0208bb140c112210d3586f40088b9e59:559401970,672e68e7d713121044801c1eac1c71bc:559401970</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_08a49b8283056210a32e58a6feaad3d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="DELETE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2025-04-23 10:29:35</created_on><dashboard display_value="">37949b8283056210a32e58a6feaad3ca</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_updated_on>2025-04-23 10:29:35</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval/><requested_by_user/><schedule_repetition>false</schedule_repetition><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:29:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>08a49b8283056210a32e58a6feaad3d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_user_metadata_08a49b8283056210a32e58a6feaad3d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:29:35</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>-37052019</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>fa71947483196210a32e58a6feaad32e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623cee890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>2057938a860562109a9cd5163b25438d</update_guid>
+<update_guid_history>2057938a860562109a9cd5163b25438d:-37052019,40a493c29a05621068641185a24b811e:-39727478</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_b657938a83056210a32e58a6feaad395</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="Demo Dashboard">b257938a83056210a32e58a6feaad393</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b657938a83056210a32e58a6feaad395</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b257938a83056210a32e58a6feaad393</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_b657938a83056210a32e58a6feaad395</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:31</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>-1907096701</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>fe71947483196210a32e58a6feaad32d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d13090000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>b257938a83056210a32e58a6feaad393</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>be57178a1d056210a282e5f555be1dad</update_guid>
+<update_guid_history>be57178a1d056210a282e5f555be1dad:-1907096701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_screen_type_8f57178a83056210a32e58a6feaad3d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Demo Dashboard</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 10:41:32</sys_created_on><sys_id>8f57178a83056210a32e58a6feaad3d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Dashboard</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_screen_type_8f57178a83056210a32e58a6feaad3d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 10:41:32</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=8f57178a83056210a32e58a6feaad3d2"/></record_update>]]></payload>
+<payload_hash>888335879</payload_hash>
+<remote_update_set display_value="JA - Custom String Interactive Filter">7e71947483196210a32e58a6feaad32c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-01 09:20:17</sys_created_on>
+<sys_id>fe71947483196210a32e58a6feaad330</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196623d15ec0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-01 09:20:17</sys_updated_on>
+<table/>
+<target_name>Demo Dashboard</target_name>
+<type>UX Screen Collection</type>
+<update_domain>global</update_domain>
+<update_guid>cb57178a6705621043c888fb776a70d4</update_guid>
+<update_guid_history>cb57178a6705621043c888fb776a70d4:888335879</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
